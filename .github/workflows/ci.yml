@@ -1,0 +1,87 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  swift:
+    name: Swift tests (macOS)
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v5
+      - name: Toolchain
+        run: |
+          swift --version
+          xcodebuild -version
+      - name: Build
+        run: swift build
+      - name: Test
+        run: swift test
+
+  test:
+    name: Tests (tvOS)
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v5
+      - name: Build & test on an Apple TV Simulator
+        run: bash scripts/test.sh tvOS
+
+  example:
+    name: Example app
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v5
+      - name: Install XcodeGen
+        run: brew install xcodegen
+      - name: Install tvOS platform if missing
+        run: |
+          if ! xcrun simctl list runtimes available | grep -q tvOS; then
+            xcodebuild -downloadPlatform tvOS
+          fi
+      - name: Generate project
+        working-directory: Example
+        run: xcodegen generate
+      - name: Build for tvOS Simulator
+        run: |
+          xcodebuild build \
+            -project Example/TVProfilePickerDemo.xcodeproj \
+            -scheme ProfilesTV \
+            -destination 'generic/platform=tvOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO
+
+  screenshots:
+    name: README screenshots
+    if: github.event_name != 'pull_request'
+    needs: [swift, test, example]
+    runs-on: macos-26
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - name: Install XcodeGen
+        run: brew install xcodegen
+      - name: Generate project
+        working-directory: Example
+        run: xcodegen generate
+      - name: Capture screenshots (Apple TV)
+        run: >-
+          bash scripts/screenshots.sh TVProfilePickerDemo
+          --tv ProfilesTV io.github.halilozel1903.ProfilesTV picker pin edit avatar
+      - name: Commit screenshots
+        run: |
+          git config user.name "Halil Özel"
+          git config user.email "halilozel1903@gmail.com"
+          git add docs/screenshots
+          if git diff --cached --quiet; then
+            echo "Screenshots unchanged"
+          else
+            git commit -m "Update README screenshots [skip ci]"
+            git push
+          fi

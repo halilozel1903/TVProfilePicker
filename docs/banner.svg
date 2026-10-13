@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="560" viewBox="0 0 1280 560" role="img" aria-label="TVProfilePicker: a Who's watching profile picker for Apple TV in SwiftUI, with focus glow, kids profiles, PIN lock and edit mode" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToxMmEyY2I3YS01NmU4LTQ2MTUtOTEwNS0zNjUwZWZhZTdkYzYAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaK/ZBnteGZMwS2feOPgmuEkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjOTY2MDE3My04YTc1LTRkNTMtYjM3Ni1mYmU4M2NlMDk1ZTFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJagjOdWQEo+pe3G/xFkfdAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggx1w6buWhWB20yVBJGfhCoHlcK65onnZcE1KIpojT8XmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAnYyBwmOJkQiLrVAZf6DfIAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKhVyiqNyzgMeQRiDkPvOpWYINy7OWPMcn8g13XPQZZgZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQExZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjEyYTJjYjdhLTU2ZTgtNDYxNS05MTA1LTM2NTBlZmFlN2RjNi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg4YzMyNzNkLWMyMGItNDE5My1hZDc5LWYxMTlhMWJmZjdmOXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDHXDpu5aFYHbTJUEkZ+EKgeVwrrmiedlwTUoimiNPxeaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg4ULqfr2yQvC2SnAzQcougBB2ERP56Macc43h3nlCaMGiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggLZtt9uDc5vBAEtR3V1Su21eZpe7mytqepBxbGPafoml0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPvw+CXIUqeAhNkdNaEDRTiL9x5Fjn/8y6WEUkUAuU+3RkCFKFyGipOaHx6sc97vEhQ+IovphIWgANuNvG1NGCM=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0C1020"/>
+      <stop offset="1" stop-color="#141A2C"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.78" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#22A06B" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#22A06B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.1" cy="1" r="0.6">
+      <stop offset="0" stop-color="#4C1D95" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4C1D95" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#11192B"/>
+      <stop offset="1" stop-color="#0A0F1A"/>
+    </linearGradient>
+    <radialGradient id="screenGlow" cx="0.5" cy="0" r="0.8">
+      <stop offset="0" stop-color="#22A06B" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22A06B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#1E3A8A"/>
+    </linearGradient>
+    <linearGradient id="sunset" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E35D4C"/><stop offset="1" stop-color="#A3245A"/>
+    </linearGradient>
+    <linearGradient id="forest" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22A06B"/><stop offset="1" stop-color="#0F5132"/>
+    </linearGradient>
+    <linearGradient id="grape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9F6BFF"/><stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+    <linearGradient id="kids" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFDB4D"/><stop offset="1" stop-color="#FFA62B"/>
+    </linearGradient>
+    <radialGradient id="shine" cx="0.3" cy="0.18" r="0.75">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="focusGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="560" fill="url(#bg)"/>
+  <rect width="1280" height="560" fill="url(#glowA)"/>
+  <rect width="1280" height="560" fill="url(#glowB)"/>
+
+  <!-- Title, description and feature chips -->
+  <g font-family="'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="64" y="150" fill="#FFFFFF" font-size="58" font-weight="800" letter-spacing="-1">TVProfilePicker</text>
+    <text x="66" y="200" fill="#C9D1E4" font-size="24" font-weight="500">A “Who’s watching?” profile picker</text>
+    <text x="66" y="232" fill="#C9D1E4" font-size="24" font-weight="500">for Apple TV, built in SwiftUI</text>
+
+    <g font-size="17" font-weight="600" fill="#E8ECF6">
+      <rect x="64" y="274" width="140" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="134" y="300" text-anchor="middle">Focus glow</text>
+      <rect x="216" y="274" width="152" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="292" y="300" text-anchor="middle">Kids profiles</text>
+      <rect x="380" y="274" width="116" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="438" y="300" text-anchor="middle">PIN lock</text>
+
+      <rect x="64" y="326" width="124" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="126" y="352" text-anchor="middle">Edit mode</text>
+      <rect x="200" y="326" width="168" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="284" y="352" text-anchor="middle">Symbol avatars</text>
+      <rect x="380" y="326" width="162" height="40" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#FFFFFF" stroke-opacity="0.18"/>
+      <text x="461" y="352" text-anchor="middle">Codable store</text>
+    </g>
+
+    <g font-size="16" font-weight="600" fill="#9AA6C2">
+      <text x="66" y="434">tvOS 17+  ·  Swift 6.2  ·  Swift Package Manager  ·  MIT</text>
+    </g>
+  </g>
+
+  <!-- Apple TV screen with the picker -->
+  <g>
+    <rect x="618" y="78" width="610" height="354" rx="22" fill="#05070D"/>
+    <rect x="630" y="90" width="586" height="330" rx="14" fill="url(#screen)"/>
+    <rect x="630" y="90" width="586" height="330" rx="14" fill="url(#screenGlow)"/>
+    <!-- stand -->
+    <path d="M880 432 L966 432 L980 470 L866 470 Z" fill="#1B2233"/>
+    <rect x="828" y="468" width="190" height="12" rx="6" fill="#232B3F"/>
+
+    <!-- heading placeholder -->
+    <rect x="833" y="132" width="180" height="16" rx="8" fill="#FFFFFF" fill-opacity="0.85"/>
+
+    <!-- profile 1: initials, ocean -->
+    <g>
+      <circle cx="694" cy="248" r="38" fill="url(#ocean)"/>
+      <circle cx="694" cy="248" r="38" fill="url(#shine)"/>
+      <text x="694" y="261" text-anchor="middle" fill="#FFFFFF" font-family="'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="800">A</text>
+      <rect x="670" y="306" width="48" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.45"/>
+    </g>
+
+    <!-- profile 2: sunset, locked -->
+    <g>
+      <circle cx="790" cy="248" r="38" fill="url(#sunset)"/>
+      <circle cx="790" cy="248" r="38" fill="url(#shine)"/>
+      <!-- music note -->
+      <path d="M784 232 L802 228 L802 258" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="779" cy="262" rx="8" ry="6.5" fill="#FFFFFF"/>
+      <ellipse cx="797" cy="258" rx="8" ry="6.5" fill="#FFFFFF"/>
+      <path d="M784 232 L784 262" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round"/>
+      <!-- lock badge -->
+      <circle cx="818" cy="218" r="13" fill="#141826" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1.5"/>
+      <rect x="811.5" y="217" width="13" height="10" rx="2" fill="#FFFFFF"/>
+      <path d="M814 217 L814 213.5 A4 4 0 0 1 822 213.5 L822 217" fill="none" stroke="#FFFFFF" stroke-width="2.2"/>
+      <rect x="766" y="306" width="48" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.45"/>
+    </g>
+
+    <!-- profile 3: forest, focused -->
+    <g>
+      <circle cx="904" cy="242" r="58" fill="#22A06B" opacity="0.75" filter="url(#focusGlow)"/>
+      <circle cx="904" cy="242" r="50" fill="url(#forest)"/>
+      <circle cx="904" cy="242" r="50" fill="url(#shine)"/>
+      <circle cx="904" cy="242" r="47.5" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+      <!-- leaf -->
+      <path d="M884 262 C884 232 904 218 928 218 C928 244 914 262 884 262 Z" fill="#FFFFFF"/>
+      <path d="M886 260 L914 232" stroke="#0F5132" stroke-width="3" stroke-linecap="round"/>
+      <rect x="872" y="312" width="64" height="11" rx="5.5" fill="#FFFFFF"/>
+    </g>
+
+    <!-- profile 4: grape, kids -->
+    <g>
+      <circle cx="1018" cy="248" r="38" fill="url(#grape)"/>
+      <circle cx="1018" cy="248" r="38" fill="url(#shine)"/>
+      <!-- star -->
+      <path d="M1018 228 L1024 242 L1039 243 L1027.5 252.5 L1031 267 L1018 259 L1005 267 L1008.5 252.5 L997 243 L1012 242 Z" fill="#FFFFFF"/>
+      <rect x="996" y="278" width="44" height="17" rx="8.5" fill="url(#kids)" stroke="#000000" stroke-opacity="0.25"/>
+      <text x="1018" y="291" text-anchor="middle" fill="#331F00" font-family="'SF Pro Rounded', 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="900" letter-spacing="1">KIDS</text>
+      <rect x="994" y="306" width="48" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.45"/>
+    </g>
+
+    <!-- add tile -->
+    <g>
+      <circle cx="1122" cy="248" r="36" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="2.5" stroke-dasharray="7 6"/>
+      <path d="M1122 234 L1122 262 M1108 248 L1136 248" stroke="#FFFFFF" stroke-opacity="0.75" stroke-width="4" stroke-linecap="round"/>
+      <rect x="1098" y="306" width="48" height="9" rx="4.5" fill="#FFFFFF" fill-opacity="0.3"/>
+    </g>
+
+    <!-- manage profiles pill -->
+    <rect x="858" y="358" width="130" height="28" rx="14" fill="#FFFFFF" fill-opacity="0.12"/>
+    <rect x="882" y="368" width="82" height="8" rx="4" fill="#FFFFFF" fill-opacity="0.55"/>
+  </g>
+
+  <!-- floating PIN pad card -->
+  <g>
+    <rect x="1062" y="352" width="172" height="176" rx="20" fill="#0B0F1A" opacity="0.6" filter="url(#soft)"/>
+    <rect x="1056" y="344" width="172" height="176" rx="20" fill="#161D30" stroke="#FFFFFF" stroke-opacity="0.14"/>
+    <g fill="#FFFFFF">
+      <circle cx="1108" cy="372" r="6"/>
+      <circle cx="1128" cy="372" r="6"/>
+      <circle cx="1148" cy="372" r="5" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+      <circle cx="1168" cy="372" r="5" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    </g>
+    <g fill="#FFFFFF" fill-opacity="0.13">
+      <circle cx="1100" cy="406" r="15"/><circle cx="1142" cy="406" r="15"/><circle cx="1184" cy="406" r="15"/>
+      <circle cx="1100" cy="446" r="15"/><circle cx="1184" cy="446" r="15"/>
+      <circle cx="1100" cy="486" r="15"/><circle cx="1142" cy="486" r="15"/><circle cx="1184" cy="486" r="15"/>
+    </g>
+    <circle cx="1142" cy="446" r="17" fill="#FFFFFF"/>
+  </g>
+</svg>
